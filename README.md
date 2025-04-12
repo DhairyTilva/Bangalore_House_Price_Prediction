@@ -77,3 +77,22 @@ model.predict([[2000, 3, 3, 'JP Nagar']])
 - Add **automated EDA reports** using tools like Ydata Profiling or Pandas Profiling.
 - Incorporate **real-time data updates** or API integrations for current listings.
 - Develop a **mobile-friendly frontend** for easy accessibility.
+
+---
+
+## 👨‍💻 Author
+
+**Dhairy Tilva**  
+📧 dhairyown@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/dhairy-tilva-ab35a71aa/) • [GitHub](https://github.com/DhairyTilva)
+
+---
+
+## 🏁 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+> If you found this project helpful or insightful, feel free to ⭐ star this repo and connect with me on GitHub!
+
